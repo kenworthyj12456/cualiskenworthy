@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+
+<html>
+
+
+<head>
+	<h5>Assignemnt 1 - Jesse Kenworthy</h5>
+</head>
+
+<img src="https://gutenberg.org/gutenberg/pg-logo-new.jpg"/>
+
+<body>
+<body style="background-color: silver;">
+
+<!-- Make the <h2> go to the center of the document, and the font to be Tahoma. -->
+<h2><a href="http://www.gutenberg.org/">Project Gutenberg</a></h2>
+
+<!-- Make the color of all <h3> tags blue. -->
+
+<h3>Context</h3>
+<p>Project Gutenberg is a digital library that was created with the goal of providing the public with access to as many books free of charge as possible. As of 2026 Project Gutenberg has over 79,000 eBooks available for free to the public. Project Gutenberg adheres to United States copyright law and only publishes eBooks after confirming they have copyright clearance to do so.They have a very small selection of audiobooks and sheet music as well.</p>
+
+<h3>Users</h3>
+<p>Project Gutenberg’s eBooks cover an incredibly wide variety of subject matter and as a result their target user defies easy categorization. The majority of eBooks are uploaded by volunteers and there are no guidelines on subject matter. This means a Project Gutenberg user could be anybody from a retiree searching for a gardening manual to a Middle School Student looking for an eBook version of Huckleberry Finn for a homework assignment.</p>
+
+<h3>Content</h3>
+<ul>
+    <li>eBooks</li>
+    <li>Audiobooks</li>
+    <li>Sheet Music</li>
+</ul>
+
+<h3>Unique Features of Project Gutenberg</h3>
+<p>Using plain text formatting to present texts is unique to Project Gutenberg. Other similar websites such as Internet Archive and HathiTrust present scanned versions of texts and that can cause several issues. The most common issue a user faces when trying to access a scanned document, especially a scanned copy of a full book, is slow download speeds and sometimes failure to download. Using plain text formatting allows ease of access to the texts in Project Gutenberg’s database. </p>
+<h4>Pros of Plain Text Formatting</h4>
+<ol>
+    <li>Using plain text allows user easy access to books, no wait time for downloading and no issues with corrupted or unsafe files. </li>
+    <li>Once a user has found the book they are searching for on Project Gutenberg, it only takes them one click to access the text in its entirety. This level of efficiency and intuitiveness will likely appeal to many older users who are less comfortable with navigating zip files or may not understand the difference between file formats such as epub and pdf.</li>
+</ol>
+<h4> Cons of Plain Text Formatting </h4>
+<ol>  
+    <li>While the plain text format ensures easy access, some users may prefer scanned versions of a text because the typographic options are very limited within the plain text format</li>
+</ol>
+<h3> Observations</h3>
+<p>Project Gutenberg's <a   href="https://www.gutenberg.org/about/background/index.html">About Page</a>
+does an excellent job at explaining the inner workings and philosophy of the institution behind the webpage. Unlike many of the similar free eBook webpages on the internet, Project Gutenberg has a very high level of credibility due to their transparency and the fact that they have a policy of strict adherence to copyright laws.
+</p>
+
+<h3>Suggestions for Improvement</h3>
+<p>One of the features of Project Gutenberg that I enjoyed was their <a   href="https://www.gutenberg.org/ebooks/bookshelf/">Reading List</a> page, which provides an extremely nuanced list of categories that a user can select in order to be shown all available books in that category. It turned out to be a very entertaining way to browse the eBooks without feeling overwhelmed. I would suggest featuring a "Reading List of the Month" on the home page of the website in order to draw in first time visitors to Project Gutenberg</p>
+
+</body>
+
+</html>
